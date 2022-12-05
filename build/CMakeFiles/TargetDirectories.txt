@@ -1,0 +1,9 @@
+/home/ubuntu/Documents/vscode/test3/build/CMakeFiles/main.dir
+/home/ubuntu/Documents/vscode/test3/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/Documents/vscode/test3/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Documents/vscode/test3/build/static_lib/CMakeFiles/mystatic.dir
+/home/ubuntu/Documents/vscode/test3/build/static_lib/CMakeFiles/edit_cache.dir
+/home/ubuntu/Documents/vscode/test3/build/static_lib/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Documents/vscode/test3/build/share_lib/CMakeFiles/myshare.dir
+/home/ubuntu/Documents/vscode/test3/build/share_lib/CMakeFiles/edit_cache.dir
+/home/ubuntu/Documents/vscode/test3/build/share_lib/CMakeFiles/rebuild_cache.dir

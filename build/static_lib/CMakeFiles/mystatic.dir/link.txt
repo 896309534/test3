@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmystatic.a CMakeFiles/mystatic.dir/static.c.o
+/usr/bin/ranlib libmystatic.a

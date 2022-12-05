@@ -1,0 +1,1 @@
+/media/ubuntu/Data/work/RK3568/rk356x_linux_2109261/prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-gcc -fPIC -shared -Wl,-soname,libmyshare.so -o libmyshare.so CMakeFiles/myshare.dir/share.c.o 
